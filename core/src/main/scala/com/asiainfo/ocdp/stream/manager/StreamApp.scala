@@ -8,6 +8,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
  * Created by leo on 9/16/15.
+  * test
  */
 object StreamApp extends Logging {
 
